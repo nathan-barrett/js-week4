@@ -9,4 +9,11 @@
   2. Study and do research about how to implement an API call through an Angular App - and learn more helpful fundamentals about how to user firebase with my Angular application.
     - learn how to save "favorites" from API's JSON file into firebase. Seems pretty cool!
     - spend more time making a dynamic routes and learning how to transfer information through services.
- 
+
+### I signed for four different meetups in the next month to try and get out and meet people!
+  1. Monday January 29th - Programmer Peer Mentoring Night at PDX Code Guild
+  2. Wednesday, January 31st - Portland Javascript Admirers' Monthly Meeting
+  3. Thurs, February 8th - Code Oregon Careers: Soft Skills Interviewing at Tech Academy Portland
+  4. Monday, February 12, Futuretalks PDX - Creating a culture of Inclusion and Equity in Tech.
+
+  ###

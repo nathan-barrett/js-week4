@@ -16,4 +16,8 @@
   3. Thurs, February 8th - Code Oregon Careers: Soft Skills Interviewing at Tech Academy Portland
   4. Monday, February 12, Futuretalks PDX - Creating a culture of Inclusion and Equity in Tech.
 
-  ###
+  ### Next, I am going to be going through different tutorials on youtube to help me learn a but more on Angular and how I could complete that application that I listed above, more about RegEx (i have no idea how to use it) and I will post any pertinent details below:
+    1. NetNinja video of HTTP services and both the .map and .subscribe method
+    2. More about Firebase and connecting it to your Angular application
+    3. Team Treehouse course on RegEx
+      - RegEx needs both a pattern and string to parse each expression.

@@ -21,3 +21,16 @@
     2. More about Firebase and connecting it to your Angular application
     3. Team Treehouse course on RegEx
       - RegEx needs both a pattern and string to parse each expression.
+      - a . allows for any single character and ? means the character before hand is optional
+      - character set [] - allows a single character to equal anything in the character set
+      - you can also also a range of characters e.g. a-z, A-Z and 1-9
+      - wild card characters
+        - /d for digits
+        - /w for words
+        - /s for whitespace
+      -repeated characters
+        - + one or more characters
+        - - zero or more
+        - {3} says how many of repeated characters you would like to see
+        -[^] anything after the carrot will be excluded, /W, /D, etc. excludes things that are in either words or digits or whatever
+    4. I finished the reg ex video series on treehouse and attempted to mess around with the Comic Vine API on postman but didn't receive any results from the api so I decided to learn more about Angular from Team Treehouse and Travesty Media on youtube.
